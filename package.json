@@ -1,0 +1,22 @@
+{
+  "name": "wat-u-know-about-hip-hop",
+  "version": "1.0.0",
+  "description": "A triva game based around 90's Hip Hop",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcwahoo/TriviaGame.git"
+  },
+  "keywords": [
+    "90s"
+  ],
+  "author": "Blessing C.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcwahoo/TriviaGame/issues"
+  },
+  "homepage": "https://github.com/bcwahoo/TriviaGame#readme"
+}
